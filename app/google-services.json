@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418586079486",
+    "project_id": "instagramappbyjetpackcompose",
+    "storage_bucket": "instagramappbyjetpackcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418586079486:android:c395eacf72fef56817b5af",
+        "android_client_info": {
+          "package_name": "com.example.chateappwithjetpackcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418586079486-hevsqgamj2fv83uo43dua880q90735cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvR4RSTbTaVIGbOjsq3gx8yfEbC4tbtR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418586079486-hevsqgamj2fv83uo43dua880q90735cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
